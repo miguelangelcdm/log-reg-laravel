@@ -106,9 +106,11 @@
                     </ul>
                 </li>
 
-                <li class="menu-title">Components</li>
 
-                <li>
+
+                {{-- <li class="menu-title">Components</li> --}}
+
+                {{-- <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="ri-pencil-ruler-2-line"></i>
                         <span>UI Elements</span>
@@ -131,9 +133,9 @@
                         <li><a href="ui-general.html">General</a></li>
 
                     </ul>
-                </li>
+                </li> --}}
 
-                <li>
+                {{-- <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="ri-vip-crown-2-line"></i>
                         <span>Advanced UI</span>
@@ -231,7 +233,7 @@
                             </ul>
                         </li>
                     </ul>
-                </li>
+                </li> --}}
 
             </ul>
         </div>
